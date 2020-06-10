@@ -1,6 +1,6 @@
 APPLICATION_ID: weather
 service_description:
-  name: weather
+  name: weather-beta
   version: 0.0.3
   description: Beta version of weather service (including UV panel display).
   properties:
