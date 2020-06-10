@@ -1,4 +1,4 @@
-APPLICATION_ID: weathermap
+APPLICATION_ID: weather
 service_description:
   name: fusionweather
   version: 0.0.2
